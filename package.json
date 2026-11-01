@@ -1,0 +1,19 @@
+{
+  "name": "student-management-api",
+  "version": "1.0.0",
+  "description": "Student Management Backend API using Node.js, Express and MongoDB",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "mongoose": "^9.11.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
