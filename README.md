@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Management API
 
 A RESTful API built with Node.js, Express, and MongoDB Atlas for managing student records.
@@ -32,3 +33,7 @@ A RESTful API built with Node.js, Express, and MongoDB Atlas for managing studen
 1. **Clone or Download the Project**
    ```bash
    cd student-management-api
+=======
+# student-management-api
+Student Management CRUD API using Node.js Express and MongoDB
+>>>>>>> f3193a6758d9c9ccea47d2900d3e37211b966e47
